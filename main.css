@@ -1,0 +1,23 @@
+.main {
+    background-image: url('./assets/image-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.navbar {
+    background-color: white;
+    opacity: 0.75;
+}
+
+.logo-img {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.logo-img-bg-color {
+    background-color: white;
+    opacity: 1;
+}
